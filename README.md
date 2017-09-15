@@ -1,6 +1,6 @@
 Componentes: Camila Santiago, Victor Affonso e Yuri Pedro
 
-<h3>Este projeto referente a disciplina de Topicos Especiais F, tem como o intuito fazer uma analise de uma grande quantidade de dados e de tipos diferentes.</h3>
+<h3>Este projeto referente a disciplina de Topicos Especiais F, tem como o intuito fazer uma analise de dados policiais do município de Montgomery.</h3>
 
 
 

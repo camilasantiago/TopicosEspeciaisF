@@ -1,9 +1,11 @@
-Componente: Camila Santiago, 
-            Victor Affonso e 
-            Yuri Pedro
+Componente:
+<ul style="list-style-type:circle">
+  <li>Camila Santiago, </li>
+  <li>Victor Affonso e</li>
+  <li>Yuri Pedro</li>
+</ul>
 
-
-<h2>Este projeto referente a disciplina de Topicos Especiais F, tem como o intuito fazer uma analise de uma grande quantidade de dados e de tipos diferentes.</h2>
+<h3>Este projeto referente a disciplina de Topicos Especiais F, tem como o intuito fazer uma analise de uma grande quantidade de dados e de tipos diferentes.</h3>
 
 
 

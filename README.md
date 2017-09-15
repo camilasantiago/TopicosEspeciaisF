@@ -3,7 +3,7 @@ Componente: Camila Santiago,
             Yuri Pedro
 
 
-Este projeto referente a disciplina de Topicos Especiais F, tem como o intuito fazer uma analise de uma grande quantidade de dados e de tipos diferentes.
+<h2>Este projeto referente a disciplina de Topicos Especiais F, tem como o intuito fazer uma analise de uma grande quantidade de dados e de tipos diferentes.</h2>
 
 
 

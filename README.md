@@ -12,39 +12,39 @@ Apartir disso poderiamos resolver os problemas propostos no trabalho que seguem 
 
 
 
-1 -Analyzing the times of crimes
+<h4>1 -Analyzing the times of crimes</h4>
 
-    What day of the week are the most crimes committed on? (ie Monday, Tuesday, etc)
+    <b>What day of the week are the most crimes committed on? (ie Monday, Tuesday, etc)</b>
 
 	O dia da semana com maior ocorrencia foi em uma terça feira.
 
 
 
-    During what time of day are the most crimes committed?
+    <b>During what time of day are the most crimes committed?</b>
 
 	As 7:38:24 e 09:40:11
 
 
 
-    During what month are the most crimes committed?
+    <b>During what month are the most crimes committed?</b>
 
 	Durante o mes de outubro
 
 
 
-    During what time of day when crimes are committe?
+    <b>During what time of day when crimes are committe?</b>
 
 	Manhã
 
 
 
-    Were you surprised by your findings? 
+    <b>Were you surprised by your findings? </b>
 
 	Sim
 
 
 
-    Why do you think that crimes follow the patterns that they do?
+    <b>Why do you think that crimes follow the patterns that they do?</b>
 
 	Pela manhã devem ocorrer por ser em horário onde as pessoas saem para trabalhar e ainda não dá para concluir nada em relação ao mês
 

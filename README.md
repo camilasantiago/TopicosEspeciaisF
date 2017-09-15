@@ -14,37 +14,37 @@ Apartir disso poderiamos resolver os problemas propostos no trabalho que seguem 
 
 <h4>1 -Analyzing the times of crimes</h4>
 
-    <b>What day of the week are the most crimes committed on? (ie Monday, Tuesday, etc)</b>
+    What day of the week are the most crimes committed on? (ie Monday, Tuesday, etc)
 
 	O dia da semana com maior ocorrencia foi em uma terça feira.
 
 
 
-    <b>During what time of day are the most crimes committed?</b>
+    During what time of day are the most crimes committed?
 
 	As 7:38:24 e 09:40:11
 
 
 
-    <b>During what month are the most crimes committed?</b>
+    During what month are the most crimes committed?
 
 	Durante o mes de outubro
 
 
 
-    <b>During what time of day when crimes are committe?</b>
+    During what time of day when crimes are committe?
 
 	Manhã
 
 
 
-    <b>Were you surprised by your findings? </b>
+    Were you surprised by your findings? 
 
 	Sim
 
 
 
-    <b>Why do you think that crimes follow the patterns that they do?</b>
+    Why do you think that crimes follow the patterns that they do?
 
 	Pela manhã devem ocorrer por ser em horário onde as pessoas saem para trabalhar e ainda não dá para concluir nada em relação ao mês
 
@@ -62,7 +62,7 @@ Apartir disso poderiamos resolver os problemas propostos no trabalho que seguem 
 
 
 
-2 - Analyzing locations of crimes
+<h4>2 - Analyzing locations of crimes</h4>
 
 
 
@@ -78,7 +78,7 @@ Apartir disso poderiamos resolver os problemas propostos no trabalho que seguem 
 
 
 
-3 - Analyzing types of crime
+<h4>3 - Analyzing types of crime</h4>
 
 
 
@@ -164,7 +164,7 @@ Apartir disso poderiamos resolver os problemas propostos no trabalho que seguem 
 
 
 
-4 - Combine Analysis
+<h4>4 - Combine Analysis</h4>
 
     Where are the most violent crimes committed? How about nonviolent?
 
@@ -182,7 +182,7 @@ Apartir disso poderiamos resolver os problemas propostos no trabalho que seguem 
 
 
 
-5 - Posing and answering your own questions
+<h4>5 - Posing and answering your own questions</h4>
 
 	Graphically identify areas where crimes most often occur.
 
